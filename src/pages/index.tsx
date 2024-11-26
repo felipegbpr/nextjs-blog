@@ -1,29 +1,18 @@
+import HomePage from '../containers/HomePage';
+import { getAllPosts } from '../data/posts/get-all-posts';
 import { PostData } from '../domain/posts/post';
 import { GetStaticProps } from 'next';
-
-const getPosts = async (): Promise<PostData[]> => {
-  const posts = await fetch('https://blog-strapi-api-cnwn.onrender.com/posts');
-
-  const jsonPosts = await posts.json();
-  return jsonPosts;
-};
 
 export type HomeProps = {
   posts: PostData[];
 };
 
 export default function Home({ posts }: HomeProps) {
-  return (
-    <div>
-      {posts.map((post) => (
-        <h2 key={post.slug}>{post.title}</h2>
-      ))}
-    </div>
-  );
+  return <HomePage posts={posts}></HomePage>;
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const posts = await getPosts();
+  const posts = await getAllPosts();
 
   return {
     props: { posts },
