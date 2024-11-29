@@ -1,5 +1,4 @@
 import Head from 'next/head';
-import { Comments } from '../../Comments';
 import { Footer } from '../../components/Footer';
 import { Header } from '../../components/Header';
 import { Heading } from '../../components/Heading';
@@ -10,6 +9,7 @@ import { PostDetails } from '../../components/PostDetails';
 import { SITE_NAME } from '../../config/app-config';
 import { PostData } from '../../domain/posts/post';
 import { removeHtml } from '../../utils/remove-html';
+import { Comments } from '../../components/Comments';
 
 export type PostProps = {
   post: PostData;
