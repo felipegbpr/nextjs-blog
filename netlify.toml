@@ -3,10 +3,3 @@
   functions = "out_functions"
   publish   = "out_publish"
 
-
-[build.environment]
-NODE_VERSION = "v12.13.0"
-NPM_VERSION = "^3.0.1"
-
-[[plugins]]
-package = "@netlify/plugin-nextjs"
