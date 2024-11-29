@@ -1,0 +1,8 @@
+# Next-on-Netlify Redirects
+/  /.netlify/functions/next_index  200
+/_next/data/qTcLc0Cc4S3VJ5u0cTS77/index.json  /.netlify/functions/next_index  200
+/_next/data/qTcLc0Cc4S3VJ5u0cTS77/categories/:category.json  /.netlify/functions/next_categories_category  200
+/_next/data/qTcLc0Cc4S3VJ5u0cTS77/post/:slug.json  /.netlify/functions/next_post_slug  200
+/_next/image*  url=:url w=:width q=:quality  /.netlify/functions/next_image?url=:url&w=:width&q=:quality  200
+/categories/:category  /.netlify/functions/next_categories_category  200
+/post/:slug  /.netlify/functions/next_post_slug  200
