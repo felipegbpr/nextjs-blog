@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "NBZ7");
+/******/ 	return __webpack_require__(__webpack_require__.s = "tMns");
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -11671,7 +11671,7 @@ module.exports = function(module) {
 /***/ "LZ9C":
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"polyfillFiles\":[\"static/chunks/polyfills-ff94e68042added27a93.js\"],\"devFiles\":[],\"ampDevFiles\":[],\"lowPriorityFiles\":[\"static/HhBGDHSBQANMkCX7oVn1q/_buildManifest.js\",\"static/HhBGDHSBQANMkCX7oVn1q/_ssgManifest.js\"],\"pages\":{\"/\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/642c04db5ee9df43f01c7f2c9b3aa1d41be782e3.b80c338019adb9581f8d.js\",\"static/chunks/3c7b47e3bfd8555319a13eaff1e838eb8eb941d7.e566f097fa859c8702ad.js\",\"static/chunks/e6caccd6a0270105c8c5027232d2ed96108d5268.0f6c1eedca039395f354.js\",\"static/chunks/pages/index-44a154cd50f0fd03174b.js\"],\"/404\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/pages/404-1757207030ff97016b86.js\"],\"/_app\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/642c04db5ee9df43f01c7f2c9b3aa1d41be782e3.b80c338019adb9581f8d.js\",\"static/chunks/3c7b47e3bfd8555319a13eaff1e838eb8eb941d7.e566f097fa859c8702ad.js\",\"static/chunks/pages/_app-28c6692f4638d79c9e0f.js\"],\"/_error\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/pages/_error-70d22ec0c075496a589b.js\"],\"/categories/[category]\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/642c04db5ee9df43f01c7f2c9b3aa1d41be782e3.b80c338019adb9581f8d.js\",\"static/chunks/3c7b47e3bfd8555319a13eaff1e838eb8eb941d7.e566f097fa859c8702ad.js\",\"static/chunks/e6caccd6a0270105c8c5027232d2ed96108d5268.0f6c1eedca039395f354.js\",\"static/chunks/pages/categories/[category]-de84ff1e0e69bb47d023.js\"],\"/post/[slug]\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/642c04db5ee9df43f01c7f2c9b3aa1d41be782e3.b80c338019adb9581f8d.js\",\"static/chunks/3c7b47e3bfd8555319a13eaff1e838eb8eb941d7.e566f097fa859c8702ad.js\",\"static/chunks/e6caccd6a0270105c8c5027232d2ed96108d5268.0f6c1eedca039395f354.js\",\"static/chunks/pages/post/[slug]-cd5f07c82facc55b678e.js\"]},\"ampFirstPages\":[]}");
+module.exports = JSON.parse("{\"polyfillFiles\":[\"static/chunks/polyfills-feb8a7604fa7fce626b2.js\"],\"devFiles\":[],\"ampDevFiles\":[],\"lowPriorityFiles\":[\"static/SmEjeX-o5R_r7U339WwgF/_buildManifest.js\",\"static/SmEjeX-o5R_r7U339WwgF/_ssgManifest.js\"],\"pages\":{\"/\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/8152f26edac1d411550248948c7c32016a58ee06.b80c338019adb9581f8d.js\",\"static/chunks/aa62f7c9849f71b98056f8ff73247b96b1465b29.e566f097fa859c8702ad.js\",\"static/chunks/4da69df8b1d9aa0b672648af754dddc9dd508c5b.0f6c1eedca039395f354.js\",\"static/chunks/pages/index-44a154cd50f0fd03174b.js\"],\"/404\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/pages/404-1757207030ff97016b86.js\"],\"/_app\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/8152f26edac1d411550248948c7c32016a58ee06.b80c338019adb9581f8d.js\",\"static/chunks/aa62f7c9849f71b98056f8ff73247b96b1465b29.e566f097fa859c8702ad.js\",\"static/chunks/pages/_app-28c6692f4638d79c9e0f.js\"],\"/_error\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/pages/_error-70d22ec0c075496a589b.js\"],\"/categories/[category]\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/8152f26edac1d411550248948c7c32016a58ee06.b80c338019adb9581f8d.js\",\"static/chunks/aa62f7c9849f71b98056f8ff73247b96b1465b29.e566f097fa859c8702ad.js\",\"static/chunks/4da69df8b1d9aa0b672648af754dddc9dd508c5b.0f6c1eedca039395f354.js\",\"static/chunks/pages/categories/[category]-de84ff1e0e69bb47d023.js\"],\"/post/[slug]\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/8152f26edac1d411550248948c7c32016a58ee06.b80c338019adb9581f8d.js\",\"static/chunks/aa62f7c9849f71b98056f8ff73247b96b1465b29.e566f097fa859c8702ad.js\",\"static/chunks/4da69df8b1d9aa0b672648af754dddc9dd508c5b.0f6c1eedca039395f354.js\",\"static/chunks/pages/post/[slug]-cd5f07c82facc55b678e.js\"],\"/post/page/[...param]\":[\"static/chunks/main-395f47c24d5d8be64fd0.js\",\"static/chunks/webpack-50bee04d1dc61f8adf5b.js\",\"static/chunks/framework.4773e3de25f30d26e781.js\",\"static/chunks/8152f26edac1d411550248948c7c32016a58ee06.b80c338019adb9581f8d.js\",\"static/chunks/aa62f7c9849f71b98056f8ff73247b96b1465b29.e566f097fa859c8702ad.js\",\"static/chunks/4da69df8b1d9aa0b672648af754dddc9dd508c5b.0f6c1eedca039395f354.js\",\"static/chunks/pages/post/page/[...param]-870d387cf2b63ee569f9.js\"]},\"ampFirstPages\":[]}");
 
 /***/ }),
 
@@ -12253,109 +12253,6 @@ var _default = (customRoute = false) => {
 };
 
 exports.default = _default;
-
-/***/ }),
-
-/***/ "NBZ7":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getStaticProps", function() { return getStaticProps; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getStaticPaths", function() { return getStaticPaths; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getServerSideProps", function() { return getServerSideProps; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unstable_getStaticParams", function() { return unstable_getStaticParams; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unstable_getStaticProps", function() { return unstable_getStaticProps; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unstable_getStaticPaths", function() { return unstable_getStaticPaths; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unstable_getServerProps", function() { return unstable_getServerProps; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "config", function() { return config; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_app", function() { return _app; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "renderReqToHTML", function() { return renderReqToHTML; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
-/* harmony import */ var next_plugin_loader_middleware_on_init_server___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("GX0O");
-/* harmony import */ var next_plugin_loader_middleware_on_error_server___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("KqAr");
-/* harmony import */ var next_dist_next_server_server_node_polyfill_fetch__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("fkL1");
-/* harmony import */ var next_dist_next_server_server_node_polyfill_fetch__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_dist_next_server_server_node_polyfill_fetch__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var private_dot_next_routes_manifest_json__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__("Skye");
-var private_dot_next_routes_manifest_json__WEBPACK_IMPORTED_MODULE_3___namespace = /*#__PURE__*/__webpack_require__.t("Skye", 1);
-/* harmony import */ var private_dot_next_build_manifest_json__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__("LZ9C");
-var private_dot_next_build_manifest_json__WEBPACK_IMPORTED_MODULE_4___namespace = /*#__PURE__*/__webpack_require__.t("LZ9C", 1);
-/* harmony import */ var private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__("67Bq");
-var private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_5___namespace = /*#__PURE__*/__webpack_require__.t("67Bq", 1);
-/* harmony import */ var next_dist_build_webpack_loaders_next_serverless_loader_page_handler__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__("7ZOo");
-/* harmony import */ var next_dist_build_webpack_loaders_next_serverless_loader_page_handler__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_dist_build_webpack_loaders_next_serverless_loader_page_handler__WEBPACK_IMPORTED_MODULE_6__);
-
-      
-      
-      
-      
-      
-      
-  
-      
-      const { processEnv } = __webpack_require__("fXeI")
-      processEnv([])
-    
-      
-      const runtimeConfig = {}
-      
-  
-      const appMod = __webpack_require__("hUgY")
-      let App = appMod.default || appMod.then && appMod.then(mod => mod.default);
-  
-      const compMod = __webpack_require__("RnN5")
-  
-      const Component = compMod.default || compMod.then && compMod.then(mod => mod.default)
-      /* harmony default export */ __webpack_exports__["default"] = (Component);
-      const getStaticProps = compMod['getStaticProp' + 's'] || compMod.then && compMod.then(mod => mod['getStaticProp' + 's'])
-      const getStaticPaths = compMod['getStaticPath' + 's'] || compMod.then && compMod.then(mod => mod['getStaticPath' + 's'])
-      const getServerSideProps = compMod['getServerSideProp' + 's'] || compMod.then && compMod.then(mod => mod['getServerSideProp' + 's'])
-  
-      // kept for detecting legacy exports
-      const unstable_getStaticParams = compMod['unstable_getStaticParam' + 's'] || compMod.then && compMod.then(mod => mod['unstable_getStaticParam' + 's'])
-      const unstable_getStaticProps = compMod['unstable_getStaticProp' + 's'] || compMod.then && compMod.then(mod => mod['unstable_getStaticProp' + 's'])
-      const unstable_getStaticPaths = compMod['unstable_getStaticPath' + 's'] || compMod.then && compMod.then(mod => mod['unstable_getStaticPath' + 's'])
-      const unstable_getServerProps = compMod['unstable_getServerProp' + 's'] || compMod.then && compMod.then(mod => mod['unstable_getServerProp' + 's'])
-  
-      let config = compMod['confi' + 'g'] || (compMod.then && compMod.then(mod => mod['confi' + 'g'])) || {}
-      const _app = App
-  
-      const { renderReqToHTML, render } = Object(next_dist_build_webpack_loaders_next_serverless_loader_page_handler__WEBPACK_IMPORTED_MODULE_6__["getPageHandler"])({
-        pageModule: compMod,
-        pageComponent: Component,
-        pageConfig: config,
-        appModule: App,
-        documentModule: __webpack_require__("mT+M"),
-        errorModule: __webpack_require__("/a9y"),
-        notFoundModule: __webpack_require__("i6+/"),
-        pageGetStaticProps: getStaticProps,
-        pageGetStaticPaths: getStaticPaths,
-        pageGetServerSideProps: getServerSideProps,
-  
-        assetPrefix: "",
-        canonicalBase: "",
-        generateEtags: true,
-        poweredByHeader: true,
-  
-        runtimeConfig,
-        buildManifest: private_dot_next_build_manifest_json__WEBPACK_IMPORTED_MODULE_4__,
-        reactLoadableManifest: private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_5__,
-  
-        rewrites: private_dot_next_routes_manifest_json__WEBPACK_IMPORTED_MODULE_3__.rewrites,
-        i18n: undefined,
-        page: "/post/[slug]",
-        buildId: "HhBGDHSBQANMkCX7oVn1q",
-        escapedBuildId: "HhBGDHSBQANMkCX7oVn1q",
-        basePath: "",
-        pageIsDynamic: true,
-        encodedPreviewProps: {previewModeId:"bfa953ddd337f00b60d419a3e2513d39",previewModeSigningKey:"6c3ac635c779014160aabfeda277fb27917522852f0f26623bf514a2f1279a44",previewModeEncryptionKey:"5a2e700a0a089b9c7e7d5d9315212cadb89fd94f64c9097587a5dbc666589bfe"},
-        experimental: {
-          onError: next_plugin_loader_middleware_on_error_server___WEBPACK_IMPORTED_MODULE_1__["default"],
-          initServer: next_plugin_loader_middleware_on_init_server___WEBPACK_IMPORTED_MODULE_0__["default"],
-        }
-      })
-      
-    
 
 /***/ }),
 
@@ -14466,7 +14363,7 @@ const getStaticProps = async ctx => {
     props: {
       post: posts[0]
     },
-    revalidate: 5
+    revalidate: 60
   };
 };
 
@@ -15116,7 +15013,7 @@ function invariant(condition, message) {
 /***/ "Skye":
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"version\":3,\"pages404\":true,\"basePath\":\"\",\"redirects\":[{\"source\":\"/:path+/\",\"destination\":\"/:path+\",\"internal\":true,\"statusCode\":308,\"regex\":\"^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$\"}],\"rewrites\":[],\"headers\":[],\"dynamicRoutes\":[{\"page\":\"/categories/[category]\",\"regex\":\"^/categories/([^/]+?)(?:/)?$\",\"routeKeys\":{\"category\":\"category\"},\"namedRegex\":\"^/categories/(?<category>[^/]+?)(?:/)?$\"},{\"page\":\"/post/[slug]\",\"regex\":\"^/post/([^/]+?)(?:/)?$\",\"routeKeys\":{\"slug\":\"slug\"},\"namedRegex\":\"^/post/(?<slug>[^/]+?)(?:/)?$\"}],\"dataRoutes\":[]}");
+module.exports = JSON.parse("{\"version\":3,\"pages404\":true,\"basePath\":\"\",\"redirects\":[{\"source\":\"/:path+/\",\"destination\":\"/:path+\",\"internal\":true,\"statusCode\":308,\"regex\":\"^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$\"}],\"rewrites\":[],\"headers\":[],\"dynamicRoutes\":[{\"page\":\"/categories/[category]\",\"regex\":\"^/categories/([^/]+?)(?:/)?$\",\"routeKeys\":{\"category\":\"category\"},\"namedRegex\":\"^/categories/(?<category>[^/]+?)(?:/)?$\"},{\"page\":\"/post/page/[...param]\",\"regex\":\"^/post/page/(.+?)(?:/)?$\",\"routeKeys\":{\"param\":\"param\"},\"namedRegex\":\"^/post/page/(?<param>.+?)(?:/)?$\"},{\"page\":\"/post/[slug]\",\"regex\":\"^/post/([^/]+?)(?:/)?$\",\"routeKeys\":{\"slug\":\"slug\"},\"namedRegex\":\"^/post/(?<slug>[^/]+?)(?:/)?$\"}],\"dataRoutes\":[]}");
 
 /***/ }),
 
@@ -33171,6 +33068,109 @@ function normalListItem(ctx, value, position) {
   }
 }
 
+
+/***/ }),
+
+/***/ "tMns":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getStaticProps", function() { return getStaticProps; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getStaticPaths", function() { return getStaticPaths; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getServerSideProps", function() { return getServerSideProps; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unstable_getStaticParams", function() { return unstable_getStaticParams; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unstable_getStaticProps", function() { return unstable_getStaticProps; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unstable_getStaticPaths", function() { return unstable_getStaticPaths; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unstable_getServerProps", function() { return unstable_getServerProps; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "config", function() { return config; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_app", function() { return _app; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "renderReqToHTML", function() { return renderReqToHTML; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony import */ var next_plugin_loader_middleware_on_init_server___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("GX0O");
+/* harmony import */ var next_plugin_loader_middleware_on_error_server___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("KqAr");
+/* harmony import */ var next_dist_next_server_server_node_polyfill_fetch__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("fkL1");
+/* harmony import */ var next_dist_next_server_server_node_polyfill_fetch__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_dist_next_server_server_node_polyfill_fetch__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var private_dot_next_routes_manifest_json__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__("Skye");
+var private_dot_next_routes_manifest_json__WEBPACK_IMPORTED_MODULE_3___namespace = /*#__PURE__*/__webpack_require__.t("Skye", 1);
+/* harmony import */ var private_dot_next_build_manifest_json__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__("LZ9C");
+var private_dot_next_build_manifest_json__WEBPACK_IMPORTED_MODULE_4___namespace = /*#__PURE__*/__webpack_require__.t("LZ9C", 1);
+/* harmony import */ var private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__("67Bq");
+var private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_5___namespace = /*#__PURE__*/__webpack_require__.t("67Bq", 1);
+/* harmony import */ var next_dist_build_webpack_loaders_next_serverless_loader_page_handler__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__("7ZOo");
+/* harmony import */ var next_dist_build_webpack_loaders_next_serverless_loader_page_handler__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_dist_build_webpack_loaders_next_serverless_loader_page_handler__WEBPACK_IMPORTED_MODULE_6__);
+
+      
+      
+      
+      
+      
+      
+  
+      
+      const { processEnv } = __webpack_require__("fXeI")
+      processEnv([])
+    
+      
+      const runtimeConfig = {}
+      
+  
+      const appMod = __webpack_require__("hUgY")
+      let App = appMod.default || appMod.then && appMod.then(mod => mod.default);
+  
+      const compMod = __webpack_require__("RnN5")
+  
+      const Component = compMod.default || compMod.then && compMod.then(mod => mod.default)
+      /* harmony default export */ __webpack_exports__["default"] = (Component);
+      const getStaticProps = compMod['getStaticProp' + 's'] || compMod.then && compMod.then(mod => mod['getStaticProp' + 's'])
+      const getStaticPaths = compMod['getStaticPath' + 's'] || compMod.then && compMod.then(mod => mod['getStaticPath' + 's'])
+      const getServerSideProps = compMod['getServerSideProp' + 's'] || compMod.then && compMod.then(mod => mod['getServerSideProp' + 's'])
+  
+      // kept for detecting legacy exports
+      const unstable_getStaticParams = compMod['unstable_getStaticParam' + 's'] || compMod.then && compMod.then(mod => mod['unstable_getStaticParam' + 's'])
+      const unstable_getStaticProps = compMod['unstable_getStaticProp' + 's'] || compMod.then && compMod.then(mod => mod['unstable_getStaticProp' + 's'])
+      const unstable_getStaticPaths = compMod['unstable_getStaticPath' + 's'] || compMod.then && compMod.then(mod => mod['unstable_getStaticPath' + 's'])
+      const unstable_getServerProps = compMod['unstable_getServerProp' + 's'] || compMod.then && compMod.then(mod => mod['unstable_getServerProp' + 's'])
+  
+      let config = compMod['confi' + 'g'] || (compMod.then && compMod.then(mod => mod['confi' + 'g'])) || {}
+      const _app = App
+  
+      const { renderReqToHTML, render } = Object(next_dist_build_webpack_loaders_next_serverless_loader_page_handler__WEBPACK_IMPORTED_MODULE_6__["getPageHandler"])({
+        pageModule: compMod,
+        pageComponent: Component,
+        pageConfig: config,
+        appModule: App,
+        documentModule: __webpack_require__("mT+M"),
+        errorModule: __webpack_require__("/a9y"),
+        notFoundModule: __webpack_require__("i6+/"),
+        pageGetStaticProps: getStaticProps,
+        pageGetStaticPaths: getStaticPaths,
+        pageGetServerSideProps: getServerSideProps,
+  
+        assetPrefix: "",
+        canonicalBase: "",
+        generateEtags: true,
+        poweredByHeader: true,
+  
+        runtimeConfig,
+        buildManifest: private_dot_next_build_manifest_json__WEBPACK_IMPORTED_MODULE_4__,
+        reactLoadableManifest: private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_5__,
+  
+        rewrites: private_dot_next_routes_manifest_json__WEBPACK_IMPORTED_MODULE_3__.rewrites,
+        i18n: undefined,
+        page: "/post/[slug]",
+        buildId: "SmEjeX-o5R_r7U339WwgF",
+        escapedBuildId: "SmEjeX\-o5R_r7U339WwgF",
+        basePath: "",
+        pageIsDynamic: true,
+        encodedPreviewProps: {previewModeId:"803589b55d5627a88bf98af6b21c70ee",previewModeSigningKey:"f2a5d93f5e1885cc2c02a49ac4393b856493f87b1a364826340ffcd71fd2435e",previewModeEncryptionKey:"31f3428fe1acb9cad3e19d63984b99fc5c34c0d07663241dfa8468369e0869ea"},
+        experimental: {
+          onError: next_plugin_loader_middleware_on_error_server___WEBPACK_IMPORTED_MODULE_1__["default"],
+          initServer: next_plugin_loader_middleware_on_init_server___WEBPACK_IMPORTED_MODULE_0__["default"],
+        }
+      })
+      
+    
 
 /***/ }),
 
